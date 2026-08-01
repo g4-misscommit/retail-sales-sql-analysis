@@ -1,0 +1,6 @@
+Dataset used:
+
+Brazilian E-Commerce Public Dataset by Olist
+
+Available on Kaggle:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
