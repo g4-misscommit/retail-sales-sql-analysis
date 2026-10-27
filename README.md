@@ -146,7 +146,6 @@ retail-sales-sql-analysis/
 │   │   ├── payment_methods.csv
 │   │   ├── customer_states.csv
 │   │   └── delivery_reviews.csv
-│   ├── screenshots/
 │   └── Brazilian E-Commerce Sales Dashboard.pbix
 ├── dataset/
 │   └── dataset_source.txt
@@ -160,7 +159,11 @@ retail-sales-sql-analysis/
 │   ├── 05_executive_insights.sql
 │   └── 06_dashboard_queries.sql
 ├── screenshots/
-│   └── dashboard.png
+│   └── customers-count.png
+│   ├── dashboard.png
+│   ├── order-items-count.png
+│   ├── orders-count.png
+│   ├── products-count.png
 └── README.md
 ```
 
