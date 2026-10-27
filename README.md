@@ -174,6 +174,7 @@ retail-sales-sql-analysis/
 - Observed relationships between delivery performance and review scores do not, by themselves, establish causation.
 
 ## Author
+Trisha Yvonne Calibuso
 
 **Data Analytics Portfolio Project**
 
