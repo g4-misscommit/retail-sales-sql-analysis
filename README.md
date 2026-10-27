@@ -42,37 +42,23 @@ The original dataset includes multiple related CSV files that were imported into
 
 ## Project Workflow
 
-### 1. Database Setup
+### 1. Data Source
+Obtained the Brazilian E-Commerce Public Dataset by Olist from Kaggle.
 
-- Imported the relevant CSV datasets into PostgreSQL.
-- Organized the data into relational tables.
-- Prepared the database for querying and analysis.
-
-### 2. Data Preparation
-
-- Reviewed the structure and contents of the tables.
-- Examined missing values and data consistency where relevant.
-- Used SQL joins to combine information from related tables for analysis.
+### 2. Data Importing
+Imported the relevant original CSV datasets into PostgreSQL and organized them into tables.
 
 ### 3. SQL Analysis
+Used PostgreSQL to query and analyze sales, customers, product categories, payment methods, and delivery performance.
 
-Created SQL queries to investigate sales, customers, products, payments, and delivery performance.
+### 4. Exporting Results
+Exported selected SQL query results into seven summarized CSV files for visualization.
 
-Key analysis areas included:
+### 5. Importing to Power BI
+Imported the seven summarized CSV files into Power BI.
 
-- Sales and revenue performance
-- Monthly revenue trends
-- Product category performance
-- Customer distribution by state and city
-- Customer purchasing behavior
-- Payment method distribution
-- Delivery performance and customer reviews
-
-### 4. Dashboard Development
-
-- Exported summarized query results from PostgreSQL into CSV files.
-- Imported the summary files into Power BI.
-- Designed a dashboard to present key performance indicators and business trends.
+### 6. Dashboard Creation
+Created an executive-style dashboard featuring KPI cards and visualizations to present key business findings.
 
 ## SQL Skills Demonstrated
 
